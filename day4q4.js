@@ -1,0 +1,16 @@
+var x=10;
+var y=20;
+var a=eval("x+y");
+console.log(a);
+var b=eval("x-y");
+console.log(b);
+var c=eval("x*y");
+console.log(c);
+var d=eval("x/y");
+console.log(d);
+var e=eval("x%y");
+console.log(e);
+var f=eval(Math.sqrt(x));
+console.log(f);
+var g=eval(Math.sqrt(y));
+console.log(g);
